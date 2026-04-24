@@ -88,17 +88,17 @@ Financial institutions face significant losses due to loan defaults. The goal of
 
 ## 📂 Project Structure
 
+```
 credit-risk-prediction-ml/
 │
 ├── README.md
 ├── credit_risk_pipeline.py
 ├── requirements.txt
 ├── images/
-│ ├── roc_curve.png
-│ ├── feature_importance.png
-│ └── target_distribution.png
-
----
+│   ├── roc_curve.png
+│   ├── feature_importance.png
+│   └── target_distribution.png
+```
 
 ## 🚀 How to Run
 
