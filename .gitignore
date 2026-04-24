@@ -1,0 +1,7 @@
+# Ignore dataset
+application_train.csv
+application_train.xlsx
+
+# Ignore reports
+*.docx
+*.pdf
