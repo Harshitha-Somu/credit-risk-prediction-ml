@@ -96,7 +96,7 @@ credit-risk-prediction-ml/
 ├── images/
 │ ├── roc_curve.png
 │ ├── feature_importance.png
-│ ├── target_distribution.png
+│ └── target_distribution.png
 
 ---
 
