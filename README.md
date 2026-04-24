@@ -103,7 +103,7 @@ credit-risk-prediction-ml/
 ## 🚀 How to Run
 
 1. Clone the repository
-git clone https://github.com/your-username/credit-risk-prediction-ml.git
+git clone https://github.com/Harshitha-Somu/credit-risk-prediction-ml
 cd credit-risk-prediction-ml
 
 
